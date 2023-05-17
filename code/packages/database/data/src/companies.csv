@@ -1,0 +1,109 @@
+CompanyID,CompanyName,CompanyRegion
+1,"Warner Bros. Entertainment Inc.",1
+1,"Warner Bros. Entertainment Inc.",3
+1,"Warner Bros. Entertainment Inc.",5
+2,"Walt Disney Studios",2
+2,"Walt Disney Studios",4
+3,"Universal Pictures",1
+3,"Universal Pictures",6
+4,"Paramount Pictures",3
+4,"Paramount Pictures",5
+5,"20th Century Studios",1
+5,"20th Century Studios",2
+5,"20th Century Studios",4
+6,"Columbia Pictures",2
+6,"Columbia Pictures",3
+7,"Lionsgate Films",4
+7,"Lionsgate Films",6
+8,"New Line Cinema",1
+8,"New Line Cinema",3
+9,"DreamWorks Animation",2
+9,"DreamWorks Animation",5
+10,"Metro-Goldwyn-Mayer (MGM)",1
+10,"Metro-Goldwyn-Mayer (MGM)",4
+11,"Sony Pictures Entertainment",3
+11,"Sony Pictures Entertainment",6
+12,"Miramax",1
+12,"Miramax",2
+12,"Miramax",5
+13,"Focus Features",2
+13,"Focus Features",3
+14,"A24",4
+14,"A24",6
+15,"Studio Ghibli",1
+15,"Studio Ghibli",3
+16,"Legendary Entertainment",2
+16,"Legendary Entertainment",5
+17,"Lucasfilm Ltd.",1
+17,"Lucasfilm Ltd.",4
+18,"Amblin Entertainment",3
+18,"Amblin Entertainment",6
+19,"Pixar Animation Studios",1
+19,"Pixar Animation Studios",2
+19,"Pixar Animation Studios",5
+20,"The Weinstein Company",2
+20,"The Weinstein Company",3
+21,"DreamWorks Pictures",4
+21,"DreamWorks Pictures",6
+22,"Working Title Films",1
+22,"Working Title Films",3
+23,"BBC Films",2
+23,"BBC Films",5
+24,"Amazon Studios",1
+24,"Amazon Studios",4
+25,"HBO Films",3
+25,"HBO Films",6
+26,"Film4 Productions",1
+26,"Film4 Productions",2
+26,"Film4 Productions",5
+27,"Fox Searchlight Pictures",2
+27,"Fox Searchlight Pictures",3
+28,"Disneytoon Studios",4
+28,"Disneytoon Studios",6
+29,"STX Entertainment",1
+29,"STX Entertainment",3
+30,"The CW Television Network",2
+30,"The CW Television Network",5
+31,"DreamWorks Television",1
+31,"DreamWorks Television",4
+32,"National Geographic Films",3
+32,"National Geographic Films",6
+33,"DreamWorks Animation Television",1
+33,"DreamWorks Animation Television",2
+33,"DreamWorks Animation Television",5
+34,"FilmNation Entertainment",2
+34,"FilmNation Entertainment",3
+35,"Participant Media",4
+35,"Participant Media",6
+36,"Working Title Television",1
+36,"Working Title Television",3
+37,"Constantin Film",2
+37,"Constantin Film",5
+38,"Miramax Television",1
+38,"Miramax Television",4
+39,"StudioCanal",3
+39,"StudioCanal",6
+40,"MTV Films",1
+40,"MTV Films",2
+40,"MTV Films",5
+41,"Dimension Films",2
+41,"Dimension Films",3
+42,"A24 Films",4
+42,"A24 Films",6
+43,"Bleecker Street",1
+43,"Bleecker Street",3
+44,"Participant",2
+44,"Participant",5
+45,"Imagine Entertainment",1
+45,"Imagine Entertainment",4
+46,"FilmDistrict",3
+46,"FilmDistrict",6
+47,"The Weinstein Company",1
+47,"The Weinstein Company",2
+47,"The Weinstein Company",5
+48,"FilmNation Entertainment",2
+48,"FilmNation Entertainment",3
+49,"CBS Films",4
+49,"CBS Films",6
+50,"Participant Media",1
+50,"Participant Media",3

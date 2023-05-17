@@ -1,0 +1,5 @@
+packages:
+  - backend
+  - frontend
+  - packages/api-spec
+  # - packages/config/*

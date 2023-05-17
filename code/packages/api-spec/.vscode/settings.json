@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "typescript",
+            "scheme": "file",
+            "pattern": "types.ts"
+        }
+    ]
+}

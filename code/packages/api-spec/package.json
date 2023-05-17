@@ -1,0 +1,19 @@
+{
+  "name": "@e7na/api-spec",
+  "version": "0.1.0",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf .turbo node_modules",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "typescript": "^5.0.4"
+  }
+}

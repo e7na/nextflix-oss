@@ -1,0 +1,17 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./src/*"]
+    },
+    "strictNullChecks": true
+  },
+  "exclude": ["node_modules"],
+  "ts-node": {
+    "esm": true
+  },
+  "include": ["**/*.ts"]
+}

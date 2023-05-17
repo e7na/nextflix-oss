@@ -1,0 +1,252 @@
+CountryID,CountryName,RegionID
+"AD","Andorra",2
+"AE","United Arab Emirates",2
+"AF","Afghanistan",2
+"AG","Antigua and Barbuda",1
+"AI","Anguilla",1
+"AL","Albania",2
+"AM","Armenia",2
+"AN","Netherlands Antilles",1
+"AO","Angola",2
+"AQ","Antarctica",0
+"AR","Argentina",4
+"AS","American Samoa",1
+"AT","Austria",2
+"AU","Australia",4
+"AW","Aruba",1
+"AZ","Azerbaijan",2
+"BA","Bosnia and Herzegovina",2
+"BB","Barbados",1
+"BD","Bangladesh",2
+"BE","Belgium",2
+"BF","Burkina Faso",2
+"BG","Bulgaria",2
+"BH","Bahrain",2
+"BI","Burundi",2
+"BJ","Benin",2
+"BM","Bermuda",1
+"BN","Brunei Darussalam",3
+"BO","Bolivia",4
+"BR","Brazil",4
+"BS","Bahamas",1
+"BT","Bhutan",3
+"BU","Burma",0
+"BV","Bouvet Island",0
+"BW","Botswana",2
+"BY","Belarus",5
+"BZ","Belize",1
+"CA","Canada",1
+"CC","Cocos  Islands",4
+"CD","Congo",2
+"CF","Central African Republic",2
+"CG","Congo",2
+"CH","Switzerland",2
+"CI","Cote D'Ivoire",2
+"CK","Cook Islands",4
+"CL","Chile",4
+"CM","Cameroon",2
+"CN","China",6
+"CO","Colombia",4
+"CR","Costa Rica",1
+"CS","Serbia and Montenegro",2
+"CU","Cuba",1
+"CV","Cape Verde",2
+"CX","Christmas Island",4
+"CY","Cyprus",2
+"CZ","Czech Republic",2
+"DE","Germany",2
+"DJ","Djibouti",2
+"DK","Denmark",2
+"DM","Dominica",1
+"DO","Dominican Republic",1
+"DZ","Algeria",2
+"EC","Ecuador",4
+"EE","Estonia",2
+"EG","Egypt",2
+"EH","Western Sahara",2
+"ER","Eritrea",2
+"ES","Spain",2
+"ET","Ethiopia",2
+"FI","Finland",2
+"FJ","Fiji",4
+"FK","Falkland Islands",4
+"FM","Micronesia",4
+"FO","Faeroe Islands",2
+"FR","France",2
+"GA","Gabon",2
+"GB","United Kingdom",2
+"GD","Grenada",1
+"GE","Georgia",2
+"GF","French Guiana",2
+"GH","Ghana",2
+"GI","Gibraltar",2
+"GL","Greenland",2
+"GM","Gambia",2
+"GN","Guinea",2
+"GP","Guadaloupe",1
+"GQ","Equatorial Guinea",2
+"GR","Greece",2
+"GS","South Georgia and the South Sandwich Islands",0
+"GT","Guatemala",1
+"GU","Guam",1
+"GW","Guinea-Bissau",2
+"GY","Guyana",2
+"HK","Hong Kong",3
+"HM","Heard and McDonald Islands",4
+"HN","Honduras",1
+"HR","Croatia",2
+"HT","Haiti",1
+"HU","Hungary",2
+"ID","Indonesia",3
+"IE","Ireland",2
+"IL","Israel",2
+"IN","India",5
+"IO","British Indian Ocean Territory",5
+"IQ","Iraq",2
+"IR","Iran",2
+"IS","Iceland",2
+"IT","Italy",2
+"JM","Jamaica",1
+"JO","Jordan",2
+"JP","Japan",2
+"KE","Kenya",2
+"KG","Kyrgyz Republic",5
+"KH","Cambodia",3
+"KI","Kiribati",4
+"KM","Comoros",2
+"KN","St. Kitts and Nevis",1
+"KP","North Korea",3
+"KR","South Korea",3
+"KW","Kuwait",2
+"KY","Cayman Islands",1
+"KZ","Kazakhstan",5
+"LA","Lao People's Democratic Republic",3
+"LB","Lebanon",2
+"LC","St. Lucia",1
+"LI","Liechtenstein",2
+"LK","Sri Lanka",5
+"LR","Liberia",2
+"LS","Lesotho",2
+"LT","Lithuania",2
+"LU","Luxembourg",2
+"LV","Latvia",2
+"LY","Libyan Arab Jamahiriya",2
+"MA","Morocco",2
+"MC","Monaco",2
+"MD","Moldova",2
+"ME","Montenegro",2
+"MG","Madagascar",2
+"MH","Marshall Islands",4
+"MK","Macedonia",2
+"ML","Mali",2
+"MM","Myanmar",3
+"MN","Mongolia",5
+"MO","Macao",3
+"MP","Northern Mariana Islands",1
+"MQ","Martinique",1
+"MR","Mauritania",2
+"MS","Montserrat",1
+"MT","Malta",2
+"MU","Mauritius",2
+"MV","Maldives",5
+"MW","Malawi",2
+"MX","Mexico",4
+"MY","Malaysia",3
+"MZ","Mozambique",2
+"NA","Namibia",2
+"NC","New Caledonia",4
+"NE","Niger",2
+"NF","Norfolk Island",4
+"NG","Nigeria",2
+"NI","Nicaragua",1
+"NL","Netherlands",2
+"NO","Norway",2
+"NP","Nepal",5
+"NR","Nauru",4
+"NU","Niue",4
+"NZ","New Zealand",4
+"OM","Oman",2
+"PA","Panama",1
+"PE","Peru",4
+"PF","French Polynesia",4
+"PG","Papua New Guinea",4
+"PH","Philippines",3
+"PK","Pakistan",5
+"PL","Poland",2
+"PM","St. Pierre and Miquelon",1
+"PN","Pitcairn Island",4
+"PR","Puerto Rico",1
+"PS","Palestinian Territory",2
+"PT","Portugal",2
+"PW","Palau",1
+"PY","Paraguay",4
+"QA","Qatar",2
+"RE","Reunion",2
+"RO","Romania",2
+"RS","Serbia",2
+"RU","Russia",5
+"RW","Rwanda",2
+"SA","Saudi Arabia",2
+"SB","Solomon Islands",4
+"SC","Seychelles",2
+"SD","Sudan",2
+"SE","Sweden",2
+"SG","Singapore",3
+"SH","St. Helena",2
+"SI","Slovenia",2
+"SJ","Svalbard & Jan Mayen Islands",2
+"SK","Slovakia",2
+"SL","Sierra Leone",2
+"SM","San Marino",2
+"SN","Senegal",2
+"SO","Somalia",2
+"SR","Suriname",4
+"SS","South Sudan",2
+"ST","Sao Tome and Principe",2
+"SU","Soviet Union",5
+"SV","El Salvador",1
+"SY","Syrian Arab Republic",2
+"SZ","Swaziland",2
+"TC","Turks and Caicos Islands",1
+"TD","Chad",2
+"TF","French Southern Territories",0
+"TG","Togo",2
+"TH","Thailand",3
+"TJ","Tajikistan",5
+"TK","Tokelau",4
+"TL","Timor-Leste",4
+"TM","Turkmenistan",5
+"TN","Tunisia",2
+"TO","Tonga",4
+"TP","East Timor",4
+"TR","Turkey",2
+"TT","Trinidad and Tobago",1
+"TV","Tuvalu",4
+"TW","Taiwan",3
+"TZ","Tanzania",2
+"UA","Ukraine",5
+"UG","Uganda",2
+"UM","United States Minor Outlying Islands",1
+"US","United States of America",1
+"UY","Uruguay",4
+"UZ","Uzbekistan",5
+"VA","Holy See",2
+"VC","St. Vincent and the Grenadines",1
+"VE","Venezuela",4
+"VG","British Virgin Islands",1
+"VI","US Virgin Islands",1
+"VN","Vietnam",3
+"VU","Vanuatu",4
+"WF","Wallis and Futuna Islands",4
+"WS","Samoa",4
+"XC","Czechoslovakia",0
+"XG","East Germany",0
+"XI","Northern Ireland",0
+"XK","Kosovo",2
+"YE","Yemen",2
+"YT","Mayotte",2
+"YU","Yugoslavia",2
+"ZA","South Africa",2
+"ZM","Zambia",2
+"ZR","Zaire",2
+"ZW","Zimbabwe",2
